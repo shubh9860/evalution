@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+
+#d1{
+    max-width: 1200px;
+ 
+    
+}
+#d2{
+    display: inline;
+    max-width: 1200px;
+   
+}
